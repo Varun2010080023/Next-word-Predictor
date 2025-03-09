@@ -44,6 +44,5 @@ print("Predicted next word:", next_word)
 - Fine-tuning the model on additional Shakespearean plays
 - Expanding the dataset for broader text generalization
 
-## License
-This project is open-source under the MIT License.
+
 
